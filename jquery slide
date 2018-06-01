@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>박찬미</title>
+<link rel="stylesheet" type="text/css" href="css/base.css">
+<script src="script/jquery-1.12.3.js"></script>
+<script src="script/common.js"></script>
+</head>
+<body>
+  <div id="main_Slide">
+    <div class="Font_wrap">
+      <p>웹디자인기능사</p>
+      <p>제이쿼리 연습중</p>
+    </div>
+    <ul id="gnb">
+      <li><img src="https://images.unsplash.com/photo-1520596880803-6ea0113a42d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85e4f2ee22a7cb65f886b260a703cc1b&auto=format&fit=crop&w=1650&q=80" alt="슬라이드이미지_1"></li>
+      <li><img src="https://images.unsplash.com/photo-1520596880803-6ea0113a42d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85e4f2ee22a7cb65f886b260a703cc1b&auto=format&fit=crop&w=1650&q=80" alt="슬라이드이미지_2"></li>
+      <li><img src="https://images.unsplash.com/photo-1520596880803-6ea0113a42d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85e4f2ee22a7cb65f886b260a703cc1b&auto=format&fit=crop&w=1650&q=80" alt="슬라이드이미지_3"></li>
+      <li><img src="https://images.unsplash.com/photo-1520596880803-6ea0113a42d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85e4f2ee22a7cb65f886b260a703cc1b&auto=format&fit=crop&w=1650&q=80" alt="슬라이드이미지_4"></li>
+      <li><img src="https://images.unsplash.com/photo-1520596880803-6ea0113a42d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85e4f2ee22a7cb65f886b260a703cc1b&auto=format&fit=crop&w=1650&q=80" alt="슬라이드이미지_5"></li>
+    </ul>
+    <div id="btns">
+      <a href="#none" class="left">prev</a>
+      <a href="#none" class="right">next</a>
+    </div>
+  </div>
+</body>
+</html>
